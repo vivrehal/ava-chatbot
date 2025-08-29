@@ -4,8 +4,6 @@
 
 This project is a multi-modal AI companion named Ava. It's designed to be an interactive and engaging conversational agent capable of handling text, images, and audio. The agent is built with a sophisticated graph-based workflow using LangGraph, allowing for complex and context-aware interactions.
 
-![Project Overview](./img/project_overview_diagram.gif)
-
 ## ✨ Features
 
 - **Conversational AI:** Engage in natural and dynamic conversations.
@@ -40,8 +38,8 @@ This project is a multi-modal AI companion named Ava. It's designed to be an int
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/neural-maze/ava-whatsapp-agent-course.git
-    cd ava-whatsapp-agent-course
+    git clone https://github.com/vivrehal/ava-chatbot.git
+    cd ava-chatbot
     ```
 
 2.  **Create a `.env` file:**
